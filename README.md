@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Murat NAR**
 
-- GitHub: [@muratnar](https://github.com/muratnar)
+- GitHub: [@muratnar]((https://github.com/devMurat06))
 - Website: [muratnar.netlify.app](https://muratnar.netlify.app)
 
 ---
